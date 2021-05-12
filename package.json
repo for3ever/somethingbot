@@ -58,7 +58,7 @@
     "libsodium-wrappers": "^0.7.6",
     "lint": "^1.1.2",
     "math-expression-evaluator": "^1.2.17",
-    "mathjs": "^6.6.4",
+    "mathjs": "^7.5.1",
     "mocha": "^6.0.2",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.2.2",
